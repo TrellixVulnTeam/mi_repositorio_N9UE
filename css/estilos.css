@@ -74,6 +74,10 @@ body {
   font-style: italic;
   padding-bottom: 3rem; }
 
+.imagenAplicacion {
+  max-width: 150px;
+  max-height: 150px; }
+
 /* ----- BLOG ----- */
 .blog__imagen {
   padding-bottom: 2rem;
